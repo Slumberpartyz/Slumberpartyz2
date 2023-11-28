@@ -708,6 +708,26 @@ a {
   position: relative;
   min-height: 60px;
 }
+.cid-tWSzrRZLFq .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-tWSzrRZLFq .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-tWSzrRZLFq .item {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.cid-tWSzrRZLFq .item .icon-wrap {
+  text-align: center;
+}
 .cid-tWSzrRZLFq .item span {
   font-size: 2rem;
   color: #ffffff;
