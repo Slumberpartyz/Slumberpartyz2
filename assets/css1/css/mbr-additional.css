@@ -708,6 +708,15 @@ a {
   position: relative;
   min-height: 60px;
 }
+.cid-tWSzrRZLFq .icon-box {
+  background: #232323;
+  width: 60px;
+  min-width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  text-align: center;
+  display: inline-block;
+}
 .cid-tR2dFuZ95T nav.navbar {
   position: fixed;
 }
